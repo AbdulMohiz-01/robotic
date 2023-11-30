@@ -41,6 +41,12 @@
             "processed_chunks": 1,
             "file_size": 9223,
             "chunk_size": 10
+        },
+        "online-examination-systen-in-php-master\\LICENSE": {
+            "total_chunks": 108,
+            "processed_chunks": 1,
+            "file_size": 1078,
+            "chunk_size": 10
         }
     },
     "total_size": 3841036,
