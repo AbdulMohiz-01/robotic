@@ -17,6 +17,12 @@
             "processed_chunks": 1,
             "file_size": 16042,
             "chunk_size": 10
+        },
+        "online-examination-systen-in-php-master\\dbConnection.php": {
+            "total_chunks": 21,
+            "processed_chunks": 1,
+            "file_size": 202,
+            "chunk_size": 10
         }
     },
     "total_size": 3841036,
