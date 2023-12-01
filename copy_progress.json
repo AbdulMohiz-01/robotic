@@ -65,6 +65,12 @@
             "processed_chunks": 1,
             "file_size": 2551808,
             "chunk_size": 10
+        },
+        "online-examination-systen-in-php-master\\project.sql": {
+            "total_chunks": 1381,
+            "processed_chunks": 1,
+            "file_size": 13809,
+            "chunk_size": 10
         }
     },
     "total_size": 3841036,
