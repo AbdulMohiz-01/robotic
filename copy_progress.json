@@ -131,6 +131,12 @@
             "processed_chunks": 1,
             "file_size": 7,
             "chunk_size": 10
+        },
+        "online-examination-systen-in-php-master\\fonts\\glyphicons-halflings-regular.eot": {
+            "total_chunks": 2013,
+            "processed_chunks": 1,
+            "file_size": 20127,
+            "chunk_size": 10
         }
     },
     "total_size": 3841036,
