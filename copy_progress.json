@@ -233,6 +233,12 @@
             "processed_chunks": 1,
             "file_size": 216,
             "chunk_size": 10
+        },
+        "online-examination-systen-in-php-master\\js\\modernizr.js": {
+            "total_chunks": 5137,
+            "processed_chunks": 1,
+            "file_size": 51364,
+            "chunk_size": 10
         }
     },
     "total_size": 3841036,
